@@ -1,11 +1,15 @@
 **Disclaimer** : This software is meant for educational purposes only. I don't feel responsible for any malicious use of the app.
+
+# Things to know
+This program is not made by me,I do some modefication in it for better performance.
+This program run on Windows and Linux only.
+Original creater id ---> https://github.com/karma9874
 # HackANDROID
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
-[![GitHub followers](https://img.shields.io/github/followers/Coders-World-Start?label=Follow&style=social)](https://github.com/Coders-World-Start)
+[![GitHub followers](https://img.shields.io/github/followers/hackprogrames?label=Follow&style=social)](https://github.com/hackprogrames)
 
 HackANDROID is a tool designed to give the control of the android system remotely and retrieve informations from it. HackANDROID is a client/server application developed in Java Android for the client side and the Server is in Python.
-
 
 
 ## Features of HackANDROID
